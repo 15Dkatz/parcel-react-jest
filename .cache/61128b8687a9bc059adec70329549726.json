@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<!doctype html>\n<html>\n  <body>\n    <div id=\"root\">\n    <script src=\"/dist/parcel-react-jest.js\">\n  </body>\n</html></script></div></body></html>"},"hash":"67a32e0c43c10b39180f7f181e4b0b26"}
